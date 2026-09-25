@@ -3,6 +3,8 @@
 Youtube utiliza SSR (Server Side Rendering) para el renderizado de la página
 Lo he comprobado en las DevTools, dandole a Network -> Doc y después sale la url de youtube y pulsando en ella después le da a response y te muestra el html completo.
 
+<img width="1303" height="990" alt="captura1-network-html" src="https://github.com/user-attachments/assets/022299a3-8b20-4f36-a51f-009f1b75337b" />
+<img width="1321" height="899" alt="captura2network-js" src="https://github.com/user-attachments/assets/3fe766eb-2696-4a98-8dd1-b57de8c7fd95" /
 
 2. Destripando el Motor (Performance).
 
